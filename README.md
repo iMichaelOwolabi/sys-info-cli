@@ -1,4 +1,4 @@
-A sample command-line application.
+A simple cli tool that gives basic information about your computer built with dart.
 
 Created from templates made available by Stagehand under a BSD-style
 [license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
@@ -21,12 +21,5 @@ Created from templates made available by Stagehand under a BSD-style
 
 - You should see the basic information about your computer on the console
 
-
-
-mpboom
-mpboom
-Commander Lvl 3
-‎01-30-2018 07:48 AM
-Message 4 of 15
 
 ![System info cli screenshot](https://res.cloudinary.com/imichaelowolabi/image/upload/v1574289076/sys_info_cli.png)
