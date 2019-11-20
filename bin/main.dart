@@ -10,5 +10,5 @@ main() {
   print('\nDart PATH = ${envVarMap["PATH"]}');
   print('\nYou\'re running ${Platform.operatingSystem} ${Platform.operatingSystemVersion} with ${Platform.numberOfProcessors} processors');
   print('\nYour language and current location is: ${Platform.localeName}');
-  print('\n Thank You ${thumbsUp}\n');
+  print('\nThank You ${thumbsUp}\n');
 }
