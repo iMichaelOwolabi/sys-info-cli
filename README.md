@@ -23,4 +23,4 @@ Created from templates made available by Stagehand under a BSD-style
 - You should see the basic information about your computer on the console
 
 
-![System info cli screenshot](https://res.cloudinary.com/imichaelowolabi/image/upload/v1574289076/sys_info_cli.png)
+![System info cli screenshot](https://res.cloudinary.com/imichaelowolabi/image/upload/v1574289911/sys_info_cli.png)
