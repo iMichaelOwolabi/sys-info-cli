@@ -1,3 +1,4 @@
+### System info cli
 A simple cli tool that gives basic information about your computer built with dart.
 
 Created from templates made available by Stagehand under a BSD-style
