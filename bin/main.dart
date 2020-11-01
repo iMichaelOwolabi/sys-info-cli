@@ -2,7 +2,7 @@ import 'dart:io';
 
 main() {
   final envVarMap = Platform.environment;
-  const thumbsUp = '\u{1F44D}';
+  const thumbsUp = '\u{1F91D}';
   
   print('\nBelow is the basic details about your computer:');
   print('\nPWD = ${envVarMap["PWD"]}');
